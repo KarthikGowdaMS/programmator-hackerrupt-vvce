@@ -1,0 +1,267 @@
+1-Androstenediol (5α-androst-1-ene-3β, 17β-diol)
+1-Androstenedione (5α-androst-1-ene-3, 17-dione)
+1-Androsterone (3α-hydroxy-5α-androst-1- ene-17-one)
+1-Epiandrosterone (3β-hydroxy-5α-androst- 1-ene-17-one)
+1-Testosterone (17β-hydroxy-5α-androst-1- en-3-one)
+4-Androstenediol (androst-4-ene-3β,17β- diol)
+4-Hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one)
+5-Androstenedione (androst-5-ene-3,17- dione)
+7α-hydroxy-DHEA
+7β-hydroxy-DHEA
+7-Keto-DHEA
+19-Norandrostenediol  (estr-4-ene-3,17-diol)
+19-Norandrostenedione (estr-4-ene-3,17- dione)
+Androstanolone (5α-dihydrotestosterone, 17β-hydroxy-5α-androstan-3-one)
+Androstenediol (androst-5-ene-3β,17β-diol)
+Androstenedione (androst-4-ene-3,17- dione)
+Bolasterone
+Boldenone
+Boldione (androsta-1,4-diene-3,17-dione)
+Calusterone
+Clostebol
+Danazol ([1,2]oxazolo[4’,5’:2,3]pregna-4-en- 20-yn-17α-ol)
+Dehydrochlormethyltestosterone (4-chloro- 17β-hydroxy-17α-methylandrosta-1,4-dien- 3-one)
+Desoxymethyltestosterone (17α-methyl-5α- androst-2-en-17β-ol and 17α-methyl-5α- androst-3-en-17β-ol)
+Drostanolone
+Epiandrosterone (3β-hydroxy-5α-androstan- 17-one)
+Epi-dihydrotestosterone (17β-hydroxy-5β- androstan-3-one)
+Epitestosterone
+Ethylestrenol  (19-norpregna-4-en-17α-ol)
+Fluoxymesterone
+Formebolone
+Furazabol (17α-methyl [1,2,5] oxadiazolo[3’,4’:2,3]-5α-androstan-17β-ol)
+Gestrinone
+Mestanolone
+Mesterolone
+Metandienone (17β-hydroxy-17α- methylandrosta-1,4-dien-3-one)
+Metenolone
+Methandriol
+Methasterone (17β-hydroxy-2α,17α- dimethyl-5α-androstan-3-one)
+Methyl-1-testosterone (17β-hydroxy-17α- methyl-5α-androst-1-en-3-one)
+Methylclostebol
+Methyldienolone (17β-hydroxy-17α- methylestra-4,9-dien-3-one)
+Methylnortestosterone (17β-hydroxy-17α- methylestr-4-en-3-one)
+Methyltestosterone
+Metribolone (methyltrienolone, 17β-hydroxy- 17α-methylestra-4,9,11-trien-3-one)
+Mibolerone
+Nandrolone (19-nortestosterone)
+Norboletone
+Norclostebol (4-chloro-17β-ol-estr-4-en-3- one)
+Norethandrolone
+Oxabolone
+Oxandrolone
+Oxymesterone
+Oxymetholone
+Prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one)
+Prostanozol (17β-[(tetrahydropyran-2-yl) oxy]-1’H-pyrazolo[3,4:2,3]-5α-androstane)
+Quinbolone
+Stanozolol
+Stenbolone
+Testosterone
+Tetrahydrogestrinone (17-hydroxy-18a- homo-19-nor-17α-pregna-4,9,11-trien-3- one)
+Tibolone
+Trenbolone (17β-hydroxyestr-4,9,11-trien-3- one)
+Darbepoetins (dEPO)
+Erythropoietins (EPO)
+EPO-based constructs [e.g. EPO-Fc, methoxy polyethylene glycol-epoetin beta (CERA)]
+EPO-mimetic agents and their constructs (e.g. CNTO-530, peginesatide)
+VM14161:3 Cobalt
+Daprodustat (GSK1278863)
+IOX2
+Molidustat (BAY 85-3934)
+Roxadustat (FG-4592)
+Vadadustat (AKB-6548)
+Xenon
+VM14161:3 K-11706
+VM14161:3 Luspatercept
+Sotatercept
+VM14161:3 Asialo EPO
+Carbamylated EPO (CEPO)
+VM14161:3 Buserelin 
+Deslorelin
+Gonadorelin
+Goserelin
+Leuprorelin
+Nafarelin
+Triptorelin
+VM14161:3 Corticorelin
+VM14161:3 growth hormone analogues, e.g. lonapegsomatropin, somapacitan and somatrogon
+growth hormone fragments, e.g. AOD-9604 and hGH 176-191
+VM14161:3 growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin)
+growth hormone secretagogues (GHS) and its mimetics [e.g. lenomorelin (ghrelin), anamorelin, ipamorelin, macimorelin and tabimorelin]
+GH-releasing peptides (GHRPs) [e.g. alexamorelin, GHRP-1, GHRP-2 (pralmorelin), GHRP-3, GHRP-4, GHRP-5, GHRP-6, and examorelin (hexarelin)]
+VM14161:3 Fibroblast growth factors (FGFs)
+Hepatocyte growth factor (HGF)
+Insulin-like growth factor 1 (IGF-1) and its analogues
+Mechano growth factors (MGFs)
+Platelet-derived growth factor (PDGF)
+Thymosin-β4 and its derivatives e.g. TB-500
+Vascular endothelial growth factor (VEGF)
+Arformoterol
+Fenoterol
+Formoterol
+Higenamine
+Indacaterol
+Levosalbutamol
+Olodaterol
+Procaterol
+Reproterol
+Salbutamol
+Salmeterol
+Terbutaline
+Tretoquinol (trimetoquinol)
+Tulobuterol
+Vilanterol
+Desmopressin
+Probenecid
+Plasma expanders, e.g. intravenous administration of albumin, dextran, hydroxyethyl starch and mannitol
+Acetazolamide
+Amiloride
+Bumetanide
+Canrenone
+Chlortalidone
+Etacrynic acid
+Furosemide
+Indapamide
+Metolazone
+Spironolactone
+Thiazides, e.g. bendroflumethiazide, chlorothiazide and hydrochlorothiazide
+Triamterene
+Vaptans, e.g. tolvaptan
+VM191015:4 Drospirenone; pamabrom; and topical ophthalmic administration of carbonic anhydrase inhibitors (e.g. dorzolamide, brinzolamide)
+Local administration of felypressin in dental anaesthesia
+Adrafinil
+Amfepramone
+Amfetamine
+Amfetaminil
+Amiphenazole
+Benfluorex
+Benzylpiperazine
+Bromantan
+Clobenzorex
+Cocaine
+Cropropamide
+Crotetamide
+Fencamine
+Fenetylline
+Fenfluramine
+Fenproporex
+Fonturacetam [4-phenylpiracetam (carphedon)]
+Furfenorex
+Lisdexamfetamine
+Mefenorex
+Mephentermine
+Mesocarb
+Metamfetamine(d-)
+p-methylamfetamine
+Modafinil
+Norfenfluramine
+Phendimetrazine
+Phentermine
+Prenylamine
+Prolintane
+VM187392:4 3-Methylhexan-2-amine (1,2-dimethylpentylamine)
+4-fluoromethylphenidate
+4-Methylhexan-2-amine (methylhexaneamine)
+4-Methylpentan-2-amine (1,3-dimethylbutylamine)
+5-Methylhexan-2-amine (1,4-dimethylpentylamine)
+Benzfetamine
+Cathine**
+Cathinone and its analogues, e.g. mephedrone, methedrone, and α - pyrrolidinovalerophenone
+Dimetamfetamine (dimethylamphetamine)
+Ephedrine***
+Epinephrine**** (adrenaline)
+Etamivan
+Etilamfetamine
+Etilefrine
+Famprofazone
+Fenbutrazate
+Fencamfamin
+Heptaminol
+Hydrafinil (fluorenol)
+Hydroxyamfetamine (parahydroxyamphetamine)
+Isometheptene
+Levmetamfetamine
+Meclofenoxate
+Methylenedioxymetham- phetamine
+Methylephedrine***
+Methylphenidate
+Nikethamide
+Norfenefrine
+Octodrine (1,5-dimethylhex- ylamine)
+Octopamine
+Oxilofrine (methylsynephrine)
+Pemoline
+Pentetrazol
+Phenethylamine and its derivatives
+Phenmetrazine
+Phenpromethamine
+Propylhexedrine
+Pseudoephedrine*****
+Selegiline
+Sibutramine
+Strychnine
+Tenamfetamine (methylenedioxyamphet- amine)
+Tuaminoheptane
+VM187392:4 Clonidine
+Imidazole derivatives for dermatological, nasal or ophthalmic use (e.g. brimonidine, clonazoline, fenoxazoline, indanazoline, naphazoline, oxymetazoline, xylometazoline) and those stimulants included in the 2022 Monitoring Program*
+Buprenorphine
+Dextromoramide
+Diamorphine (heroin)
+Fentanyl and its derivatives
+Hydromorphone
+Methadone
+Morphine
+Nicomorphine
+Oxycodone
+Oxymorphone
+Pentazocine
+Pethidine
+In cannabis (hashish, marijuana) and cannabis products
+Synthetic cannabinoids that mimic the effects of THC
+Natural and synthetic tetrahydrocannabinols (THCs)
+VM183573:4 Cannabidiol
+Beclometasone
+Betamethasone
+Budesonide
+Ciclesonide
+Cortisone
+Deflazacort
+Dexamethasone
+Flucortolone
+Flunisolide
+Fluticasone
+Hydrocortisone
+Methylprednisolone
+Mometasone
+Prednisolone
+Prednisone
+Triamcinolone acetonide
+Archery (WA)*
+Automobile (FIA)
+Billiards (all disciplines) (WCBS)
+Darts (WDF)
+Golf (IGF)
+Shooting (ISSF, IPC)*
+Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air
+Underwater sports (CMAS) in all subdisciplines of freediving, spearfishing and target shooting
+VM167145:4 Acebutolol
+Alprenolol
+Atenolol
+Betaxolol
+Bisoprolol
+Bunolol
+Carteolol
+Carvedilol
+Celiprolol
+Esmolol
+Labetalol
+Metipranolol
+Metoprolol
+Nadolol
+Nebivolol
+Oxprenolol
+Pindolol
+Propranolol
+Sotalol
+Timolol
