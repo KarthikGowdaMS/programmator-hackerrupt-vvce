@@ -1,0 +1,8 @@
+#result{
+    width: 500px;
+    display: flex;
+    margin: auto;
+    padding-left: 45px;
+    padding-top: 20px;
+    font-size: larger;
+}
